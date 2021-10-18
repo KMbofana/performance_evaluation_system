@@ -1,0 +1,10 @@
+Details to generate statistical charts
+
+Start From Monthly
+Produce weekly bar graphs with total of points attached to the each rating for example (excellence=3, Good=2, Average=1
+and Poor=0)
+
+Quarterly
+Produce monthly bar graphs with total of point value of the rating.
+
+Do the same for the yearly graph
